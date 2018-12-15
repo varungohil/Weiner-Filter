@@ -8,7 +8,7 @@ Contains 3 MATLAB scripts
 
 
 
-**Note : ** 
+**Note** : 
 
 - Set the *dataset_dir* variable to the path of directory named *bwdataset*. You might need to specify the path with respect to the root directory.
 - Set *test_img* variable to name of image you want to test. **Do not specify the path, only name**.
