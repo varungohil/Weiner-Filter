@@ -28,6 +28,6 @@ There are 2 outputs
 - PSNR values of corrupted image and restored image are printed in console.
 - The original image, corrupted image and restored images are shown in another window.
 
-
+***For details on dataset used and results, please refer to report.pdf**.
 -----
 _This work was done as part of assignment in the Probability and Random Processes course at IIT Gandhinagar_
