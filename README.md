@@ -1,6 +1,6 @@
 # Wiener Filter
 
-Contains 3 MATLAB scripts
+The repository contains 3 MATLAB scripts
 
 - final_func.m
 - train_for_SNR.m
@@ -29,4 +29,5 @@ There are 2 outputs
 - The original image, corrupted image and restored images are shown in another window.
 
 
-
+-----
+_This work was done as part of assignment in the Probability and Random Processes course at IIT Gandhinagar_
